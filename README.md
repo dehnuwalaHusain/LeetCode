@@ -14,9 +14,9 @@ Welcome to my LeetCode solutions repository! This repository contains my solutio
 
 ## Table of Contents for Problems
 - [Easy Problems](./easy)
-	- [001 - TwoSum]("./Easy/001 - TwoSum")
+	- [001 - TwoSum](<./Easy/001 - TwoSum>)
 - [Medium Problems](./Medium)
-	- [002 - AddTwoNumbers]("./Medium/002 - AddTwoNumbers")
+	- [002 - AddTwoNumbers](<./Medium/002 - AddTwoNumbers>)
 - [Hard Problems](./hard)
 
 ## Solution Approach
