@@ -17,6 +17,7 @@ Welcome to my LeetCode solutions repository! This repository contains my solutio
 	- [001 - TwoSum](<./Easy/001 - TwoSum>)
 - [Medium Problems](./Medium)
 	- [002 - AddTwoNumbers](<./Medium/002 - AddTwoNumbers>)
+	- [003 - LongestSubstring](<./Medium/003 - LongestSubstring>)
 - [Hard Problems](./hard)
 
 ## Solution Approach
